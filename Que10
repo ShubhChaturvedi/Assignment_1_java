@@ -1,0 +1,9 @@
+x = 2
+y = 5
+z = 0
+then find values of the following expressions:
+a. x == 2 = true
+b. x != 5 = false
+c. x != 5 && y >= 5 = true
+d. z != 0 || x == 2 = true
+e. !(y < 10) = false
